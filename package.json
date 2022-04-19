@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "sort.js",
 	"scripts": {
-		"start": "node tree.js"
+		"start": "node graph.js"
 	},
 	"author": "",
 	"license": "ISC"

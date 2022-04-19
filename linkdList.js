@@ -136,7 +136,7 @@ node.val = node.next.val;
 node.next = next;
 //['a','c','t','q'], ['p','t','m','r','h','o','p']
 
-//loop through one of the array and map it to be key value pair;
+//loop through one of the array and map it to be key val pair;
 
 // let arr1 = ["a",2, "c", "t", "q"];
 // let arr2 = ["p","m", "r", "h", "o", "a"];
