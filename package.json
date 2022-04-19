@@ -1,0 +1,11 @@
+{
+	"name": "algo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "sort.js",
+	"scripts": {
+		"start": "node sort.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
